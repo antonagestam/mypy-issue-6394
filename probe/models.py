@@ -1,0 +1,1 @@
+x: ObviousError = 1
